@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-splash](modules/splash)
 - [react-native-social-login](modules/social-login)
+- [django-social-auth](backend/modules)
 
 # Getting started: Frontend
 
