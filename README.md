@@ -72,6 +72,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-support-faq](screens/support-faq)
 - [screen-settings](screens/settings)
 - [screen-about-the-app](screens/about-the-app)
+- [screen-events-advanced](screens/events-advanced)
 
 # Getting started: Frontend
 

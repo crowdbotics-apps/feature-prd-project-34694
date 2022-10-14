@@ -24,6 +24,7 @@
     "@screens/about-the-app-screen": "file:./screens/about-the-app/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/event-home": "file:./screens/event-home/",
+    "@screens/events-advanced": "file:./screens/events-advanced/",
     "@screens/google-calendar": "file:./screens/google-calendar/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/settings": "file:./screens/settings/",

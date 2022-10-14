@@ -1283,13 +1283,16 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/about-the-app-screen@file:./screens/about-the-app/":
+"@screens/about-the-app-screen@file:./screens/about-the-app":
   version "1.0.0"
 
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
 "@screens/event-home@file:./screens/event-home":
+  version "1.0.0"
+
+"@screens/events-advanced@file:./screens/events-advanced/":
   version "1.0.0"
 
 "@screens/google-calendar@file:./screens/google-calendar":
