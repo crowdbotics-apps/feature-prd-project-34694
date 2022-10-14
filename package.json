@@ -13,11 +13,13 @@
   },
   "dependencies": {
     "@modules/chat": "file:./modules/chat/",
+    "@modules/navigation-tabs": "file:./modules/navigation-tabs/",
     "@modules/push-notifications": "file:./modules/push-notifications/",
     "@modules/social-login": "file:./modules/social-login/",
     "@modules/splash": "file:./modules/splash/",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/bottom-tabs": "6.3.2",
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
@@ -46,7 +48,7 @@
     "react-native-responsive-screen": "^1.4.2",
     "react-native-safe-area-context": "^3.2.0",
     "react-native-screens": "^2.18.1",
-    "react-native-vector-icons": "^8.1.0",
+    "react-native-vector-icons": "9.2.0",
     "react-native-web": "^0.18.2",
     "react-redux": "^7.2.2",
     "redux": "^4.0.5"
