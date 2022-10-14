@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-google-calendar](screens/google-calendar)
 - [screen-appointment-calendar](screens/appointment-calendar)
 - [react-native-user-profile](modules/user-profile)
+- [screen-event-home](screens/event-home)
 
 # Getting started: Frontend
 
