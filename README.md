@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-chat](modules/chat)
 - [screen-google-calendar](screens/google-calendar)
 - [screen-appointment-calendar](screens/appointment-calendar)
+- [react-native-user-profile](modules/user-profile)
 
 # Getting started: Frontend
 
