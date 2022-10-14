@@ -1289,10 +1289,13 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
+"@screens/event-details@file:./screens/event-details/":
+  version "1.0.0"
+
 "@screens/event-home@file:./screens/event-home":
   version "1.0.0"
 
-"@screens/events-advanced@file:./screens/events-advanced/":
+"@screens/events-advanced@file:./screens/events-advanced":
   version "1.0.0"
 
 "@screens/google-calendar@file:./screens/google-calendar":

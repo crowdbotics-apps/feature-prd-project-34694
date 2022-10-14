@@ -23,6 +23,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/about-the-app-screen": "file:./screens/about-the-app/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
+    "@screens/event-details": "file:./screens/event-details/",
     "@screens/event-home": "file:./screens/event-home/",
     "@screens/events-advanced": "file:./screens/events-advanced/",
     "@screens/google-calendar": "file:./screens/google-calendar/",
