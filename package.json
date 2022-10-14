@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/chat": "file:./modules/chat/",
+    "@modules/push-notifications": "file:./modules/push-notifications/",
     "@modules/social-login": "file:./modules/social-login/",
     "@modules/splash": "file:./modules/splash/",
     "@modules/user-profile": "file:./modules/user-profile/",
@@ -31,6 +32,7 @@
     "react-native-dotenv": "^2.5.3",
     "react-native-elements": "^3.3.1",
     "react-native-gesture-handler": "^1.10.3",
+    "react-native-onesignal": "^4.0.3",
     "react-native-radio-buttons-group": "^2.2.11",
     "react-native-reanimated": "~2.4.1",
     "react-native-responsive-screen": "^1.4.2",
