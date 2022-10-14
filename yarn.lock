@@ -1041,7 +1041,7 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
 "@modules/social-login@file:./modules/social-login":
@@ -1290,6 +1290,9 @@
   version "1.0.0"
 
 "@screens/google-calendar@file:./screens/google-calendar":
+  version "1.0.0"
+
+"@screens/invite-friends@file:./screens/invite-friends/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

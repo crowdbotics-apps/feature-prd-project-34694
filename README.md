@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [screen-event-home](screens/event-home)
 - [react-native-push-notifications](modules/push-notifications)
+- [screen-invite-friends](screens/invite-friends)
 
 # Getting started: Frontend
 

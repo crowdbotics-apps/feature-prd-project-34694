@@ -24,6 +24,7 @@
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/event-home": "file:./screens/event-home/",
     "@screens/google-calendar": "file:./screens/google-calendar/",
+    "@screens/invite-friends": "file:./screens/invite-friends/",
     "axios": "^0.21.1",
     "prop-types": "15.8.1",
     "react": "17.0.1",
