@@ -21,6 +21,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/about-the-app-screen": "file:./screens/about-the-app/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/event-home": "file:./screens/event-home/",
     "@screens/google-calendar": "file:./screens/google-calendar/",
