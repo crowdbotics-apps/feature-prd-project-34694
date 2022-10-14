@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-social-login](modules/social-login)
 - [django-social-auth](backend/modules)
 - [react-native-chat](modules/chat)
+- [screen-google-calendar](screens/google-calendar)
 
 # Getting started: Frontend
 
