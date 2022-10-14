@@ -1295,7 +1295,10 @@
 "@screens/invite-friends@file:./screens/invite-friends":
   version "1.0.0"
 
-"@screens/support-send-feedback@file:./screens/support-send-feedback/":
+"@screens/support-faq@file:./screens/support-faq/":
+  version "1.0.0"
+
+"@screens/support-send-feedback@file:./screens/support-send-feedback":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
